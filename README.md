@@ -9,13 +9,9 @@ Processing &amp; OpenCV &amp; Minim -- Site-specific projection installation on 
 Video of installation: http://vimeo.com/109515908
 =============
 
-This installation & projection piece plays with the tension between digital and traditional mediums, 
-and makes the inanimate fence dynamic and responsive to the level of activity around it 
-making it almost a transient portrait of the people that pass by.
+This installation & projection piece plays with the tension between digital and traditional mediums, and makes the inanimate fence dynamic and responsive to the level of activity around it making it almost a transient portrait of the people that pass by.
 
-It also plays off the tradition of painting The Fence @ CMU (The Fence is the most painted
-object in the world) and has a strict set of rules that state that The Fence can only painted after
-midnight for a certain period of time -- this installation also plays with the rules by quickly and temporarily "painting" the fence without any physical work.
+It also plays off the tradition of painting The Fence @ CMU (The Fence is the most painted object in the world) and has a strict set of rules that state that The Fence can only painted after midnight for a certain period of time -- this installation also plays with the rules by quickly and temporarily "painting" the fence without any physical work.
 =============
 
 // "Face Painting"
