@@ -1,6 +1,6 @@
 FencePainting
 =============
-Ida Chow, Madeline Finn, Jennifer
+Ida Chow, Madeline Finn, Jennifer Baranoff
 =============
 
 Processing &amp; OpenCV &amp; Minim -- Site-specific projection installation on The Fence  (@ Carnegie Mellon)
